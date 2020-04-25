@@ -1,0 +1,33 @@
+# Created at 2020-04-23T21:32:42.347
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-04-23T21:32:42.834
+Unexpected IOException with stream: log4j:WARN No appenders could be found for logger (com.a32hp.automationpracticee.framework.genericclasses.UI_GenericMethods1).
+
+
+# Created at 2020-04-23T21:32:42.836
+Unexpected IOException with stream: log4j:WARN Please initialize the log4j system properly.
+
+
+# Created at 2020-04-23T21:32:42.837
+Unexpected IOException with stream: log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+
+# Created at 2020-04-23T21:32:44.838
+Unexpected IOException with stream: Testing of Module ****************[SignIn]****************is about to start
+
+
+# Created at 2020-04-23T21:32:44.978
+Unexpected IOException with stream: Launch http://automationpractice.com/index.php on Chrome on WINDOWS
+
+
+# Created at 2020-04-23T21:32:44.979
+Unexpected IOException with stream:  in gm_LaunchBrowser
+
+

@@ -1,0 +1,61 @@
+# Created at 2020-04-22T23:29:20.024
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-04-22T23:29:23.228
+Unexpected IOException: 8,1,com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest,getBrowser(com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest),null,java.net.SocketException: Connection reset\000ABuild info: version: '3.9.1'\002C revision: '63f7b50'\002C time: '2018-02-07T22:25:02.294Z'\000ASystem info: host: 'Vikash-PC'\002C ip: '192.168.42.158'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: EventFiringWebDriver,null,java.net.SocketException: Connection reset\000ABuild info: version: '3.9.1'\002C revision: '63f7b50'\002C time: '2018-02-07T22:25:02.294Z'\000ASystem info: host: 'Vikash-PC'\002C ip: '192.168.42.158'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: EventFiringWebDriver,SignInTest.getBrowser:64->UI_GenericMethods1.gm_OpenApp:261->UI_GenericMethods1.gm_OpenURL:249 \00BB WebDriver,org.openqa.selenium.WebDriverException: \000Ajava.net.SocketException: Connection reset\000ABuild info: version: '3.9.1'\002C revision: '63f7b50'\002C time: '2018-02-07T22:25:02.294Z'\000ASystem info: host: 'Vikash-PC'\002C ip: '192.168.42.158'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_131'\000ADriver info: driver.version: EventFiringWebDriver\000A\0009at com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.getBrowser(SignInTest.java:64)\000ACaused by: java.net.SocketException: Connection reset\000A\0009at com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest.getBrowser(SignInTest.java:64)\000A
+
+
+# Created at 2020-04-22T23:29:23.236
+Unexpected IOException with stream: validateSignInPage_PageHeading_SIP onTestSkipped
+
+
+# Created at 2020-04-22T23:29:23.239
+Unexpected IOException with stream: result.getStatus() = 3
+
+
+# Created at 2020-04-22T23:29:23.245
+Unexpected IOException with stream: Listeners: OnTestFailure 
+
+
+# Created at 2020-04-22T23:29:23.666
+Unexpected IOException with stream: Execution of  Test ********************[null]******************** is complete
+
+
+# Created at 2020-04-22T23:29:23.707
+Unexpected IOException with stream: Out  of **********[null]********** Method
+
+
+# Created at 2020-04-22T23:29:23.708
+Unexpected IOException with stream: ResultStatus of Test --> [null] = Failed
+
+
+# Created at 2020-04-22T23:29:23.910
+Unexpected IOException with stream: Method1: validateForgotPasswordLink_SIP
+
+
+# Created at 2020-04-22T23:29:23.911
+Unexpected IOException with stream: Method2: validateLoginProcess_SIP
+
+
+# Created at 2020-04-22T23:29:23.912
+Unexpected IOException with stream: Method3: validateRegistrationSectionHeading_SignInPage_SIP
+
+
+# Created at 2020-04-22T23:29:23.913
+Unexpected IOException with stream: Method4: validateSignInPageBreadcrumbText_SIP
+
+
+# Created at 2020-04-22T23:29:23.914
+Unexpected IOException with stream: Method5: validateSignInPage_PageHeading_SIP
+
+
+# Created at 2020-04-22T23:29:23.921
+Unexpected IOException with stream: Method6: validateSignInPage_SignInSectionHeading_SIP
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Test]" parallel="tests">
+  <listeners>
+    <listener class-name="com.a32hp.automationpracticee.framework.helper.TestBase.ListenersInSelenium"/>
+  </listeners>
+  <test thread-count="1" name="FFTest1-SignInTest(failed)" parallel="tests">
+    <parameter name="OSName" value="WINDOWS"/>
+    <parameter name="URL" value="http://automationpractice.com/index.php"/>
+    <parameter name="Browser" value="Firefox"/>
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <include name="txt"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest">
+        <methods>
+          <include name="publishReport_SIP"/>
+          <include name="tearDown"/>
+          <include name="AfterClass"/>
+          <include name="BeforeClass"/>
+          <include name="BeforeSuite"/>
+          <include name="BeforeMethodTB"/>
+          <include name="getBrowser"/>
+          <include name="validateSignInPage_SignInSectionHeading_SIP"/>
+        </methods>
+      </class> <!-- com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest -->
+    </classes>
+  </test> <!-- FFTest1-SignInTest(failed) -->
+</suite> <!-- Failed suite [Test] -->

@@ -1,0 +1,21 @@
+# Created at 2020-04-23T21:34:48.655
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-04-23T21:34:50.111
+Unexpected IOException with stream: log4j:WARN No appenders could be found for logger (com.a32hp.automationpracticee.framework.genericclasses.UI_GenericMethods1).
+
+
+# Created at 2020-04-23T21:34:50.113
+Unexpected IOException with stream: log4j:WARN Please initialize the log4j system properly.
+
+
+# Created at 2020-04-23T21:34:50.114
+Unexpected IOException with stream: log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+
+
