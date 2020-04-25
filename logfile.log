@@ -8914,3 +8914,55 @@ TEST SUMMARY BELOW:
 2020-04-23 21:02:10,150 INFO  [ListenersInSelenium] ResultStatus of Test --> [null] = Failed 
 2020-04-23 21:32:44,836 INFO  [SignInTest] Testing of Module ****************[SignIn]****************is about to start 
 2020-04-23 21:32:44,977 INFO  [SignInTest] Launch http://automationpractice.com/index.php on Chrome on WINDOWS 
+2020-04-25 20:19:36,802 INFO  [SignInTest] Testing of Module ****************[SignIn]****************is about to start 
+2020-04-25 20:19:37,000 INFO  [SignInTest] Launch http://automationpractice.com/index.php on Chrome on WINDOWS 
+2020-04-25 20:19:51,059 INFO  [SignInTest] Chrome Browser has been launched 
+2020-04-25 20:19:53,595 INFO  [SignInTest] Now going to launch URL [http://automationpractice.com/index.php] 
+2020-04-25 20:23:04,954 INFO  [SignInTest] URL [http://automationpractice.com/index.php] has been launched 
+2020-04-25 20:23:07,401 INFO  [SignInTest] Homepage is in display 
+2020-04-25 20:23:07,462 INFO  [Homepage] Now Navigate to Sign In page 
+2020-04-25 20:23:42,371 INFO  [SignInTest] *****************SignIn Page***************** is in display 
+2020-04-25 20:23:42,392 INFO  [ListenersInSelenium] LISTonTestStart -- Test execution of ********************[validateSignInPage_PageHeading_SIP]******************** is about to start 
+2020-04-25 20:23:42,446 INFO  [ListenersInSelenium] *******In [validateSignInPage_PageHeading_SIP]  Method******* 
+2020-04-25 20:23:42,830 INFO  [SignInTest]  Display status of element --  SignIn_PageHeading_txt--AUTHENTICATION  is true 
+2020-04-25 20:23:43,143 INFO  [SignInTest] Actual SignIn Page Heading  Text  [Actual Result] =  AUTHENTICATION 
+2020-04-25 20:23:44,022 INFO  [SignInTest] ExcelReporting for test --> validateSignInPage_PageHeading_SIP :: Screenshot taken for Actual result and stored at following Location --> E:\Jenkins\JenkinsDirectory\JenkinsHomeDirectory\workspace\JenkinsSeleniumJob2\TestReports\ExcelReport\Screenshots\ActualResult\ActualResult_SignIn_PageHeading_txt_Apr_25__2020_8_23_43_PM.png 
+2020-04-25 20:23:45,065 INFO  [SignInTest] ExtentReporting for test --> validateSignInPage_PageHeading_SIP :: Screenshot taken for Actual result and stored at following Location --> E:\Jenkins\JenkinsDirectory\JenkinsHomeDirectory\workspace\JenkinsSeleniumJob2\TestReports\ExtentReport3\Screenshots\ActualResult\ActualResult_SignIn_PageHeading_txt_Apr_25__2020_8_23_44_PM.png 
+2020-04-25 20:23:45,150 INFO  [SignInTest] Expected SignIn Page Heading Text  [Expected Result] = AUTHENTICATION 
+2020-04-25 20:23:45,225 INFO  [ListenersInSelenium] Listeners: onTestSuccess  
+2020-04-25 20:23:45,554 INFO  [ListenersInSelenium] Execution of  Test ********************[validateSignInPage_PageHeading_SIP]******************** is complete 
+2020-04-25 20:23:45,630 INFO  [ListenersInSelenium] *******Out of **********[validateSignInPage_PageHeading_SIP]**********  Method******* 
+2020-04-25 20:23:45,637 INFO  [ListenersInSelenium] ResultStatus of Test --> [validateSignInPage_PageHeading_SIP] = Passed 
+2020-04-25 20:23:50,656 INFO  [ListenersInSelenium] 
+EXCEL REPORTING :: EXCEL Reporting of Test --> [validateSignInPage_PageHeading_SIP] Done. 
+	==> 1. ScreenShotPath :: Screenshot of Test Result  is captured and saved at following location --> [E:\Jenkins\JenkinsDirectory\JenkinsHomeDirectory\workspace\JenkinsSeleniumJob2\TestReports\ExcelReport\Screenshots\Passed\Passed_SignIn_PageHeading_txt_Apr_25__2020_8_23_45_PM.png]
+	 ==> 2. EXCELREPORT Path :: EXCEL Report Stored at following location --> [E:\Jenkins\JenkinsDirectory\JenkinsHomeDirectory\workspace\JenkinsSeleniumJob2\TestReports\ExcelReport] 
+2020-04-25 20:23:50,673 INFO  [ListenersInSelenium] 
+TEST SUMMARY BELOW: 
+	==>> TestName = [validateSignInPage_PageHeading_SIP]
+	==>> ExpectedResult = AUTHENTICATION
+	==>> ActualResult = AUTHENTICATION
+	==>> ResultStatus = Passed 
+2020-04-25 20:23:51,272 INFO  [ListenersInSelenium] 
+EXTENT REPORTING :: EXTENT Reporting of Test --> [validateSignInPage_PageHeading_SIP] Done. 
+	 ==> 1. ScreenShotPath :: Screenshot of Test Result  is captured and saved at following location --> E:\Jenkins\JenkinsDirectory\JenkinsHomeDirectory\workspace\JenkinsSeleniumJob2\TestReports\ExtentReport3\Screenshots\Passed\Passed_SignIn_PageHeading_txt_Apr_25__2020_8_23_50_PM.png
+	 ==> 2. EXTNTREPORT Path :: EXTNTREPORT Stored at following location -->  = E:\Jenkins\JenkinsDirectory\JenkinsHomeDirectory\workspace\JenkinsSeleniumJob2\TestReports\ExtentReport3\ExtentReport3 
+2020-04-25 20:23:51,278 INFO  [ListenersInSelenium] 
+TEST SUMMARY BELOW: 
+	==>> TestName = [validateSignInPage_PageHeading_SIP]
+	==>> ExpectedResult = AUTHENTICATION
+	==>> ActualResult = AUTHENTICATION
+	==>> ResultStatus = Passed 
+2020-04-25 20:23:55,180 INFO  [SignInTest] Chrome Browser Closed 
+2020-04-25 20:23:55,232 INFO  [SignInTest] 
+
+					********************************************************************************************************
+
+ 
+2020-04-25 20:23:55,410 INFO  [SignInTest] Launch http://automationpractice.com/index.php on Chrome on WINDOWS 
+2020-04-25 20:24:00,859 INFO  [SignInTest] Chrome Browser has been launched 
+2020-04-25 20:24:03,001 INFO  [SignInTest] Now going to launch URL [http://automationpractice.com/index.php] 
+2020-04-25 20:27:23,804 INFO  [ListenersInSelenium] Listeners: OnTestFailure  
+2020-04-25 20:27:23,838 INFO  [ListenersInSelenium] Execution of  Test ********************[validateSignInPage_PageHeading_SIP]******************** is complete 
+2020-04-25 20:27:23,861 INFO  [ListenersInSelenium] *******Out of **********[validateSignInPage_PageHeading_SIP]**********  Method******* 
+2020-04-25 20:27:23,869 INFO  [ListenersInSelenium] ResultStatus of Test --> [validateSignInPage_PageHeading_SIP] = Failed 

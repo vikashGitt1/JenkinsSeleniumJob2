@@ -5,53 +5,134 @@
       <![CDATA[***********beforeNavigateTo**********]]>
     </line>
     <line>
+      <![CDATA[************afterNavigateTo*********]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeNavigateTo**********]]>
+    </line>
+    <line>
+      <![CDATA[************afterNavigateTo*********]]>
+    </line>
+    <line>
+      <![CDATA[ITestResult Test Started]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********afterFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********afterFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********afterFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********afterFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********afterFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[***********afterFindBy**********]]>
+    </line>
+    <line>
+      <![CDATA[************beforeGetScreenshotAs*********]]>
+    </line>
+    <line>
+      <![CDATA[*********afterGetScreenshotAs************]]>
+    </line>
+    <line>
+      <![CDATA[************beforeGetScreenshotAs*********]]>
+    </line>
+    <line>
+      <![CDATA[*********afterGetScreenshotAs************]]>
+    </line>
+    <line>
+      <![CDATA[************beforeGetScreenshotAs*********]]>
+    </line>
+    <line>
+      <![CDATA[*********afterGetScreenshotAs************]]>
+    </line>
+    <line>
+      <![CDATA[************beforeGetScreenshotAs*********]]>
+    </line>
+    <line>
+      <![CDATA[*********afterGetScreenshotAs************]]>
+    </line>
+    <line>
+      <![CDATA[***********beforeNavigateTo**********]]>
+    </line>
+    <line>
+      <![CDATA[***********onException**********]]>
+    </line>
+    <line>
+      <![CDATA[************beforeGetScreenshotAs*********]]>
+    </line>
+    <line>
       <![CDATA[***********onException**********]]>
     </line>
   </reporter-output>
-  <suite name="Test" duration-ms="0" started-at="2020-04-23T15:32:11Z" finished-at="2020-04-23T15:32:11Z">
+  <suite name="Test" duration-ms="0" started-at="2020-04-25T15:08:53Z" finished-at="2020-04-25T15:08:53Z">
     <groups>
       <group name="SignInpage_smoke">
-        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- SignInpage_smoke -->
       <group name="txt">
-        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- txt -->
       <group name="SignInpage_func">
-        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- SignInpage_func -->
       <group name="func">
-        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- func -->
       <group name="createaccountandlogin">
-        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- createaccountandlogin -->
       <group name="Low">
-        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- Low -->
       <group name="Medium">
-        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateForgotPasswordLink_SIP()[pri:5, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateForgotPasswordLink_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- Medium -->
       <group name="smoke">
-        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateLoginProcess_SIP()[pri:4, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateLoginProcess_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- smoke -->
       <group name="SignInpage_txt">
-        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
-        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@4524411f]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateRegistrationSectionHeading_SignInPage_SIP()[pri:3, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateRegistrationSectionHeading_SignInPage_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPageBreadcrumbText_SIP()[pri:2, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPageBreadcrumbText_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_PageHeading_SIP()[pri:0, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_PageHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
+        <method signature="SignInTest.validateSignInPage_SignInSectionHeading_SIP()[pri:1, instance:com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest@401e7803]" name="validateSignInPage_SignInSectionHeading_SIP" class="com.a32hp.automationpracticee.framework.test.createaccountandlogin.SignInTest"/>
       </group> <!-- SignInpage_txt -->
     </groups>
   </suite> <!-- Test -->
